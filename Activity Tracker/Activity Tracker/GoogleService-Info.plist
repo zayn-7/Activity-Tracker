@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyBWjochTt6lAQwdbO5-lYx6UA3UBk0iJBU</string>
+	<string>---</string>
 	<key>GCM_SENDER_ID</key>
-	<string>611680453137</string>
+	<string>---</string>
 	<key>PLIST_VERSION</key>
-	<string>1</string>
+	<string>---</string>
 	<key>BUNDLE_ID</key>
-	<string>com.Activity-Tracker</string>
+	<string>---</string>
 	<key>PROJECT_ID</key>
-	<string>activity-tracker-4c319</string>
+	<string>---</string>
 	<key>STORAGE_BUCKET</key>
-	<string>activity-tracker-4c319.firebasestorage.app</string>
+	<string>---</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:611680453137:ios:e05ba871801e06527da7b0</string>
+	<string>---</string>
 </dict>
 </plist>
