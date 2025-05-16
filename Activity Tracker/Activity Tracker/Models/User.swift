@@ -30,9 +30,6 @@ extension User {
     }
 }
 
-
-import Foundation
-
 struct UserSession {
     let id: String
     let token: String
